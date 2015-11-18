@@ -1,0 +1,27 @@
+{
+  "name": "leap-puppet",
+  "homepage": "https://github.com/Eireann87/leap-puppet",
+  "authors": [
+    "<erynnbrook> <<erynnbrook@gmail.com>>"
+  ],
+  "description": "A leap motion controlled puppet",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "leap",
+    "puppet"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "leapjs": "~0.6.4",
+    "Processing.js": "~1.4.16",
+    "three.js": "threejs#*"
+  }
+}
